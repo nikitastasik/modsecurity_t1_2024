@@ -1,0 +1,329 @@
+Drop count = 88:
+{'params': {'test': '# from wapiti\n'}}
+{'params': {'test': 'OR x=y\n'}}
+{'params': {'test': 'update\n'}}
+{'params': {'test': 'delete\n'}}
+{'params': {'test': 'like\n'}}
+{'params': {'test': 'insert\n'}}
+{'params': {'test': 'asc\n'}}
+{'params': {'test': '# from wapiti\n'}}
+{'params': {'test': '0\n'}}
+{'params': {'test': '21%\n'}}
+{'params': {'test': 'limit\n'}}
+{'params': {'test': 'PRINT\n'}}
+{'params': {'test': '3.10E+17\n'}}
+{'params': {'test': '&\n'}}
+{'params': {'test': '//\n'}}
+{'params': {'test': 'truncate\n'}}
+{'params': {'test': 'tz_offset\n'}}
+{'params': {'test': 'sqlvuln\n'}}
+{'params': {'test': '26 %\n'}}
+{'params': {'test': 'as\n'}}
+{'params': {'test': ',@variable\n'}}
+{'params': {'test': '|\n'}}
+{'params': {'test': 'having\n'}}
+{'params': {'test': 'bfilename\n'}}
+{'params': {'test': 'select\n'}}
+{'params': {'test': '29 %\n'}}
+{'params': {'test': '(\n'}}
+{'params': {'test': '%7C\n'}}
+{'params': {'test': '/\n'}}
+{'params': {'test': 'desc\n'}}
+{'params': {'test': ')\n'}}
+{'params': {'test': 'distinct\n'}}
+{'params': {'test': 'to_timestamp_tz\n'}}
+{'params': {'test': '#NAME?\n'}}
+{'params': {'test': 'sqlvuln;\n'}}
+{'params': {'test': '28%\n'}}
+{'params': {'test': '@variable\n'}}
+{'params': {'test': '?\n'}}
+{'params': {'test': '!\n'}}
+{'params': {'test': 'or\n'}}
+{'params': {'test': 'procedure\n'}}
+{'params': {'test': 'handler\n'}}
+{'params': {'test': '29%\n'}}
+{'params': {'test': '26%\n'}}
+{'params': {'test': '|\n'}}
+{'params': {'test': '!\n'}}
+{'params': {'test': '?\n'}}
+{'params': {'test': '/\n'}}
+{'params': {'test': '//\n'}}
+{'params': {'test': '(\n'}}
+{'params': {'test': ')\n'}}
+{'params': {'test': '&\n'}}
+{'params': {'test': '0\n'}}
+{'params': {'test': '031003000270000\n'}}
+{'params': {'test': '%21\n'}}
+{'params': {'test': '%26\n'}}
+{'params': {'test': '%28\n'}}
+{'params': {'test': '%29\n'}}
+{'params': {'test': '%7C\n'}}
+{'params': {'test': 'as\n'}}
+{'params': {'test': 'asc\n'}}
+{'params': {'test': 'bfilename\n'}}
+{'params': {'test': 'delete\n'}}
+{'params': {'test': 'desc\n'}}
+{'params': {'test': 'distinct\n'}}
+{'params': {'test': 'handler\n'}}
+{'params': {'test': 'having\n'}}
+{'params': {'test': 'insert\n'}}
+{'params': {'test': 'like\n'}}
+{'params': {'test': 'limit\n'}}
+{'params': {'test': 'or\n'}}
+{'params': {'test': 'PRINT\n'}}
+{'params': {'test': 'procedure\n'}}
+{'params': {'test': 'select\n'}}
+{'params': {'test': 'sqlvuln;\n'}}
+{'params': {'test': 'to_timestamp_tz\n'}}
+{'params': {'test': 'truncate\n'}}
+{'params': {'test': 'tz_offset\n'}}
+{'params': {'test': 'update\n'}}
+{'params': {'test': ',@variable\n'}}
+{'params': {'test': '@variable\n'}}
+{'params': {'test': "1'1\n"}}
+{'params': {'test': '1\n'}}
+{'params': {'test': "1\\'1\n"}}
+{'params': {'test': 'select current_user;\n'}}
+{'params': {'test': 'select session_user;\n'}}
+{'params': {'test': 'select * from master..sysserverse\n'}}
+{'params': {'test': 'select * from sysusers\n'}}
+
+Drop count = 88:
+{'params': {'# from wapiti\n': 'test'}}
+{'params': {'OR x=y\n': 'test'}}
+{'params': {'update\n': 'test'}}
+{'params': {'delete\n': 'test'}}
+{'params': {'like\n': 'test'}}
+{'params': {'insert\n': 'test'}}
+{'params': {'asc\n': 'test'}}
+{'params': {'# from wapiti\n': 'test'}}
+{'params': {'0\n': 'test'}}
+{'params': {'21%\n': 'test'}}
+{'params': {'limit\n': 'test'}}
+{'params': {'PRINT\n': 'test'}}
+{'params': {'3.10E+17\n': 'test'}}
+{'params': {'&\n': 'test'}}
+{'params': {'//\n': 'test'}}
+{'params': {'truncate\n': 'test'}}
+{'params': {'tz_offset\n': 'test'}}
+{'params': {'sqlvuln\n': 'test'}}
+{'params': {'26 %\n': 'test'}}
+{'params': {'as\n': 'test'}}
+{'params': {',@variable\n': 'test'}}
+{'params': {'|\n': 'test'}}
+{'params': {'having\n': 'test'}}
+{'params': {'bfilename\n': 'test'}}
+{'params': {'select\n': 'test'}}
+{'params': {'29 %\n': 'test'}}
+{'params': {'(\n': 'test'}}
+{'params': {'%7C\n': 'test'}}
+{'params': {'/\n': 'test'}}
+{'params': {'desc\n': 'test'}}
+{'params': {')\n': 'test'}}
+{'params': {'distinct\n': 'test'}}
+{'params': {'to_timestamp_tz\n': 'test'}}
+{'params': {'#NAME?\n': 'test'}}
+{'params': {'sqlvuln;\n': 'test'}}
+{'params': {'28%\n': 'test'}}
+{'params': {'@variable\n': 'test'}}
+{'params': {'?\n': 'test'}}
+{'params': {'!\n': 'test'}}
+{'params': {'or\n': 'test'}}
+{'params': {'procedure\n': 'test'}}
+{'params': {'handler\n': 'test'}}
+{'params': {'29%\n': 'test'}}
+{'params': {'26%\n': 'test'}}
+{'params': {'|\n': 'test'}}
+{'params': {'!\n': 'test'}}
+{'params': {'?\n': 'test'}}
+{'params': {'/\n': 'test'}}
+{'params': {'//\n': 'test'}}
+{'params': {'(\n': 'test'}}
+{'params': {')\n': 'test'}}
+{'params': {'&\n': 'test'}}
+{'params': {'0\n': 'test'}}
+{'params': {'031003000270000\n': 'test'}}
+{'params': {'%21\n': 'test'}}
+{'params': {'%26\n': 'test'}}
+{'params': {'%28\n': 'test'}}
+{'params': {'%29\n': 'test'}}
+{'params': {'%7C\n': 'test'}}
+{'params': {'as\n': 'test'}}
+{'params': {'asc\n': 'test'}}
+{'params': {'bfilename\n': 'test'}}
+{'params': {'delete\n': 'test'}}
+{'params': {'desc\n': 'test'}}
+{'params': {'distinct\n': 'test'}}
+{'params': {'handler\n': 'test'}}
+{'params': {'having\n': 'test'}}
+{'params': {'insert\n': 'test'}}
+{'params': {'like\n': 'test'}}
+{'params': {'limit\n': 'test'}}
+{'params': {'or\n': 'test'}}
+{'params': {'PRINT\n': 'test'}}
+{'params': {'procedure\n': 'test'}}
+{'params': {'select\n': 'test'}}
+{'params': {'sqlvuln;\n': 'test'}}
+{'params': {'to_timestamp_tz\n': 'test'}}
+{'params': {'truncate\n': 'test'}}
+{'params': {'tz_offset\n': 'test'}}
+{'params': {'update\n': 'test'}}
+{'params': {',@variable\n': 'test'}}
+{'params': {'@variable\n': 'test'}}
+{'params': {"1'1\n": 'test'}}
+{'params': {'1\n': 'test'}}
+{'params': {"1\\'1\n": 'test'}}
+{'params': {'select current_user;\n': 'test'}}
+{'params': {'select session_user;\n': 'test'}}
+{'params': {'select * from master..sysserverse\n': 'test'}}
+{'params': {'select * from sysusers\n': 'test'}}
+
+Testing sql payload list in cookies request...
+Drop count = 133:
+{'cookies': {'test': '# from wapiti'}}
+{'cookies': {'test': '\'\\"'}}
+{'cookies': {'test': 'OR x=y'}}
+{'cookies': {'test': 'OR x=y#'}}
+{'cookies': {'test': 'update'}}
+{'cookies': {'test': 'delete'}}
+{'cookies': {'test': 'like'}}
+{'cookies': {'test': 'insert'}}
+{'cookies': {'test': '*|'}}
+{'cookies': {'test': 'asc'}}
+{'cookies': {'test': '# from wapiti'}}
+{'cookies': {'test': 'or a = a'}}
+{'cookies': {'test': '0'}}
+{'cookies': {'test': '21%'}}
+{'cookies': {'test': 'limit'}}
+{'cookies': {'test': 'PRINT'}}
+{'cookies': {'test': '--'}}
+{'cookies': {'test': '3.10E+17'}}
+{'cookies': {'test': '&'}}
+{'cookies': {'test': '//'}}
+{'cookies': {'test': 'truncate'}}
+{'cookies': {'test': 'tz_offset'}}
+{'cookies': {'test': 'sqlvuln'}}
+{'cookies': {'test': '||6'}}
+{'cookies': {'test': 'or a=a'}}
+{'cookies': {'test': '26 %'}}
+{'cookies': {'test': '(sqlvuln)'}}
+{'cookies': {'test': "%20'sleep%2050'"}}
+{'cookies': {'test': 'as'}}
+{'cookies': {'test': ',@variable'}}
+{'cookies': {'test': '(sqlattempt2)'}}
+{'cookies': {'test': 'or (EXISTS)'}}
+{'cookies': {'test': '|'}}
+{'cookies': {'test': 'having'}}
+{'cookies': {'test': 'bfilename'}}
+{'cookies': {'test': 'select'}}
+{'cookies': {'test': '29 %'}}
+{'cookies': {'test': '('}}
+{'cookies': {'test': 'replace'}}
+{'cookies': {'test': '%7C'}}
+{'cookies': {'test': '&apos;%20OR'}}
+{'cookies': {'test': '/'}}
+{'cookies': {'test': 'desc'}}
+{'cookies': {'test': ')'}}
+{'cookies': {'test': 'hi or a=a'}}
+{'cookies': {'test': 'distinct'}}
+{'cookies': {'test': 'to_timestamp_tz'}}
+{'cookies': {'test': '#NAME?'}}
+{'cookies': {'test': 'sqlvuln;'}}
+{'cookies': {'test': '28%'}}
+{'cookies': {'test': '@variable'}}
+{'cookies': {'test': '%2A%7C'}}
+{'cookies': {'test': '?'}}
+{'cookies': {'test': '!'}}
+{'cookies': {'test': 'or a = a'}}
+{'cookies': {'test': 'or a=a'}}
+{'cookies': {'test': 'or'}}
+{'cookies': {'test': 'procedure'}}
+{'cookies': {'test': 'handler'}}
+{'cookies': {'test': '1;SELECT%20*'}}
+{'cookies': {'test': "'sqlattempt1"}}
+{'cookies': {'test': '29%'}}
+{'cookies': {'test': '26%'}}
+{'cookies': {'test': '|'}}
+{'cookies': {'test': '!'}}
+{'cookies': {'test': '?'}}
+{'cookies': {'test': '/'}}
+{'cookies': {'test': '//'}}
+{'cookies': {'test': '('}}
+{'cookies': {'test': ')'}}
+{'cookies': {'test': '*|'}}
+{'cookies': {'test': '&'}}
+{'cookies': {'test': '0'}}
+{'cookies': {'test': '031003000270000'}}
+{'cookies': {'test': '1;SELECT%20*'}}
+{'cookies': {'test': "%20'sleep%2050'"}}
+{'cookies': {'test': '%21'}}
+{'cookies': {'test': '%26'}}
+{'cookies': {'test': '%28'}}
+{'cookies': {'test': '%29'}}
+{'cookies': {'test': '%2A%7C'}}
+{'cookies': {'test': '||6'}}
+{'cookies': {'test': '%7C'}}
+{'cookies': {'test': '&apos;%20OR'}}
+{'cookies': {'test': 'as'}}
+{'cookies': {'test': 'asc'}}
+{'cookies': {'test': 'bfilename'}}
+{'cookies': {'test': 'delete'}}
+{'cookies': {'test': 'desc'}}
+{'cookies': {'test': 'distinct'}}
+{'cookies': {'test': 'handler'}}
+{'cookies': {'test': 'having'}}
+{'cookies': {'test': 'hi or a=a'}}
+{'cookies': {'test': 'insert'}}
+{'cookies': {'test': 'like'}}
+{'cookies': {'test': 'limit'}}
+{'cookies': {'test': 'or'}}
+{'cookies': {'test': 'or a=a'}}
+{'cookies': {'test': 'or a = a'}}
+{'cookies': {'test': 'PRINT'}}
+{'cookies': {'test': 'procedure'}}
+{'cookies': {'test': 'replace'}}
+{'cookies': {'test': 'select'}}
+{'cookies': {'test': "'sqlattempt1"}}
+{'cookies': {'test': '(sqlattempt2)'}}
+{'cookies': {'test': "'sqlvuln"}}
+{'cookies': {'test': "'+sqlvuln"}}
+{'cookies': {'test': '(sqlvuln)'}}
+{'cookies': {'test': 'sqlvuln;'}}
+{'cookies': {'test': 'to_timestamp_tz'}}
+{'cookies': {'test': 'truncate'}}
+{'cookies': {'test': 'tz_offset'}}
+{'cookies': {'test': 'update'}}
+{'cookies': {'test': ',@variable'}}
+{'cookies': {'test': '@variable'}}
+{'cookies': {'test': "1'1"}}
+{'cookies': {'test': '1 exec sp_ (or exec xp_)'}}
+{'cookies': {'test': '1or1=1'}}
+{'cookies': {'test': '1'}}
+{'cookies': {'test': "1\\'1"}}
+{'cookies': {'test': '; --'}}
+{'cookies': {'test': "'); --"}}
+{'cookies': {'test': "' grant connect to name; grant resource to name; --"}}
+{'cookies': {'test': 'select current_user;'}}
+{'cookies': {'test': 'select session_user;'}}
+{'cookies': {'test': 'select * from pg_shadow;'}}
+{'cookies': {'test': 'select * from pg_group;'}}
+{'cookies': {'test': 'select * from myfile;copy myfile to /tmp/test;'}}
+{'cookies': {'test': 'select * from syscat.tabauth;'}}
+{'cookies': {'test': 'select @@servernamee'}}
+{'cookies': {'test': 'select @@microsoftversione'}}
+{'cookies': {'test': 'select * from master..sysserverse'}}
+{'cookies': {'test': 'select * from sysusers'}}
+
+headers
+Drop count = 1500:
+
+{'headers': {'test': 'AND 3516=CAST((CHR(113)||CHR(106)||CHR(122)||CHR(106)||CHR(113))||(SELECT (CASE WHEN (3516=3516) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(112)||CHR(106)||CHR(107)||CHR(113)) AS NUMERIC)'}}
+{'headers': {'test': 'AND (SELECT 4523 FROM(SELECT COUNT(*),CONCAT(0x716a7a6a71,(SELECT (ELT(4523=4523,1))),0x71706a6b71,FLOOR(RAND(0)*2))x FROM INFORMATION_SCHEMA.CHARACTER_SETS GROUP BY x)a)'}}
+{'headers': {'test': 'UNION ALL SELECT CHAR(113)+CHAR(106)+CHAR(122)+CHAR(106)+CHAR(113)+CHAR(110)+CHAR(106)+CHAR(99)+CHAR(73)+CHAR(66)+CHAR(109)+CHAR(119)+CHAR(81)+CHAR(108)+CHAR(88)+CHAR(113)+CHAR(112)+CHAR(106)+CHAR(107)+CHAR(113),NULL--'}}
+{'headers': {'test': "UNION ALL SELECT 'INJ'||'ECT'||'XXX'"}}
+{'headers': {'test': "UNION ALL SELECT 'INJ'||'ECT'||'XXX',2"}}
+{'headers': {'test': "UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3"}}
+{'headers': {'test': "UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4"}}
+{'headers': {'test': "UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5"}}
+{'headers': {'test': "UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6"}}
+{'headers': {'test': "UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7"}}

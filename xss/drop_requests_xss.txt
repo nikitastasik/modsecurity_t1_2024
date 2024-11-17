@@ -1,0 +1,179 @@
+Drop count = 61:
+{'cookies': {'test': 'alert`1`'}}
+{'cookies': {'test': 'alert&lpar;1&rpar;'}}
+{'cookies': {'test': 'alert&#x28;1&#x29'}}
+{'cookies': {'test': 'alert&#40;1&#41'}}
+{'cookies': {'test': 'al\\u0065rt(1)'}}
+{'cookies': {'test': '\x91; alert(1);'}}
+{'cookies': {'test': '\x9escriptualert(EXSSE)\x9e/scriptu'}}
+{'cookies': {'test': '&#0060'}}
+{'cookies': {'test': '&#00060'}}
+{'cookies': {'test': '&#000060'}}
+{'cookies': {'test': '&#0000060'}}
+{'cookies': {'test': '&#x03c'}}
+{'cookies': {'test': '&#x003c'}}
+{'cookies': {'test': '&#x0003c'}}
+{'cookies': {'test': '&#x00003c'}}
+{'cookies': {'test': '&#x000003c'}}
+{'cookies': {'test': '&#x03c;'}}
+{'cookies': {'test': '&#x003c;'}}
+{'cookies': {'test': '&#x0003c;'}}
+{'cookies': {'test': '&#x00003c;'}}
+{'cookies': {'test': '&#x000003c;'}}
+{'cookies': {'test': '&#X03c'}}
+{'cookies': {'test': '&#X003c'}}
+{'cookies': {'test': '&#X0003c'}}
+{'cookies': {'test': '&#X00003c'}}
+{'cookies': {'test': '&#X000003c'}}
+{'cookies': {'test': '&#X03c;'}}
+{'cookies': {'test': '&#X003c;'}}
+{'cookies': {'test': '&#X0003c;'}}
+{'cookies': {'test': '&#X00003c;'}}
+{'cookies': {'test': '&#X000003c;'}}
+{'cookies': {'test': '&#x03C'}}
+{'cookies': {'test': '&#x003C'}}
+{'cookies': {'test': '&#x0003C'}}
+{'cookies': {'test': '&#x00003C'}}
+{'cookies': {'test': '&#x000003C'}}
+{'cookies': {'test': '&#x03C;'}}
+{'cookies': {'test': '&#x003C;'}}
+{'cookies': {'test': '&#x0003C;'}}
+{'cookies': {'test': '&#x00003C;'}}
+{'cookies': {'test': '&#x000003C;'}}
+{'cookies': {'test': '&#X03C'}}
+{'cookies': {'test': '&#X003C'}}
+{'cookies': {'test': '&#X0003C'}}
+{'cookies': {'test': '&#X00003C'}}
+{'cookies': {'test': '&#X000003C'}}
+{'cookies': {'test': '&#X03C;'}}
+{'cookies': {'test': '&#X003C;'}}
+{'cookies': {'test': '&#X0003C;'}}
+{'cookies': {'test': '&#X00003C;'}}
+{'cookies': {'test': '&#X000003C;'}}
+{'cookies': {'test': '# Special ;)'}}
+{'cookies': {'test': 'al\\u0065rt(1)'}}
+{'cookies': {'test': 'alert&#40;1&#41'}}
+{'cookies': {'test': 'alert&#x28;1&#x29'}}
+{'cookies': {'test': 'alert&lpar;1&rpar;'}}
+{'cookies': {'test': 'alert`1`'}}
+{'cookies': {'test': 'inurl:parent_category_rn'}}
+{'cookies': {'test': 'inurl:resultCatEntryType'}}
+{'cookies': {'test': 'inurl:search.php?q='}}
+{'cookies': {'test': 'inurl:searchTermScope'}}
+
+Drop count = 83:
+{'cookies': {'alert`1`': 'test'}}
+{'cookies': {'alert&lpar;1&rpar;': 'test'}}
+{'cookies': {'alert&#x28;1&#x29': 'test'}}
+{'cookies': {'alert&#40;1&#41': 'test'}}
+{'cookies': {'al\\u0065rt(1)': 'test'}}
+{'cookies': {'a="get";': 'test'}}
+{'cookies': {'\x91; alert(1);': 'test'}}
+{'cookies': {'\x9escriptualert(EXSSE)\x9e/scriptu': 'test'}}
+{'cookies': {'&#0060': 'test'}}
+{'cookies': {'&#00060': 'test'}}
+{'cookies': {'&#000060': 'test'}}
+{'cookies': {'&#0000060': 'test'}}
+{'cookies': {'&#x03c': 'test'}}
+{'cookies': {'&#x003c': 'test'}}
+{'cookies': {'&#x0003c': 'test'}}
+{'cookies': {'&#x00003c': 'test'}}
+{'cookies': {'&#x000003c': 'test'}}
+{'cookies': {'&#x03c;': 'test'}}
+{'cookies': {'&#x003c;': 'test'}}
+{'cookies': {'&#x0003c;': 'test'}}
+{'cookies': {'&#x00003c;': 'test'}}
+{'cookies': {'&#x000003c;': 'test'}}
+{'cookies': {'&#X03c': 'test'}}
+{'cookies': {'&#X003c': 'test'}}
+{'cookies': {'&#X0003c': 'test'}}
+{'cookies': {'&#X00003c': 'test'}}
+{'cookies': {'&#X000003c': 'test'}}
+{'cookies': {'&#X03c;': 'test'}}
+{'cookies': {'&#X003c;': 'test'}}
+{'cookies': {'&#X0003c;': 'test'}}
+{'cookies': {'&#X00003c;': 'test'}}
+{'cookies': {'&#X000003c;': 'test'}}
+{'cookies': {'&#x03C': 'test'}}
+{'cookies': {'&#x003C': 'test'}}
+{'cookies': {'&#x0003C': 'test'}}
+{'cookies': {'&#x00003C': 'test'}}
+{'cookies': {'&#x000003C': 'test'}}
+{'cookies': {'&#x03C;': 'test'}}
+{'cookies': {'&#x003C;': 'test'}}
+{'cookies': {'&#x0003C;': 'test'}}
+{'cookies': {'&#x00003C;': 'test'}}
+{'cookies': {'&#x000003C;': 'test'}}
+{'cookies': {'&#X03C': 'test'}}
+{'cookies': {'&#X003C': 'test'}}
+{'cookies': {'&#X0003C': 'test'}}
+{'cookies': {'&#X00003C': 'test'}}
+{'cookies': {'&#X000003C': 'test'}}
+{'cookies': {'&#X03C;': 'test'}}
+{'cookies': {'&#X003C;': 'test'}}
+{'cookies': {'&#X0003C;': 'test'}}
+{'cookies': {'&#X00003C;': 'test'}}
+{'cookies': {'&#X000003C;': 'test'}}
+{'cookies': {'# Special ;)': 'test'}}
+{'cookies': {'a="get";': 'test'}}
+{'cookies': {'al\\u0065rt(1)': 'test'}}
+{'cookies': {'alert&#40;1&#41': 'test'}}
+{'cookies': {'alert&#x28;1&#x29': 'test'}}
+{'cookies': {'alert&lpar;1&rpar;': 'test'}}
+{'cookies': {'alert`1`': 'test'}}
+{'cookies': {'inurl:".php?author="': 'test'}}
+{'cookies': {'inurl:".php?cat="': 'test'}}
+{'cookies': {'inurl:".php?cmd="': 'test'}}
+{'cookies': {'inurl:".php?file="': 'test'}}
+{'cookies': {'inurl:".php?from="': 'test'}}
+{'cookies': {'inurl:".php?mail="': 'test'}}
+{'cookies': {'inurl:".php?max="': 'test'}}
+{'cookies': {'inurl:".php?pass="': 'test'}}
+{'cookies': {'inurl:".php?q="': 'test'}}
+{'cookies': {'inurl:".php?query="': 'test'}}
+{'cookies': {'inurl:".php?search="': 'test'}}
+{'cookies': {'inurl:".php?tag="': 'test'}}
+{'cookies': {'inurl:".php?txt="': 'test'}}
+{'cookies': {'inurl:".php?vote="': 'test'}}
+{'cookies': {'inurl:".php?years="': 'test'}}
+{'cookies': {'inurl:".php?z="': 'test'}}
+{'cookies': {'inurl:/poll/Â\xaddefault.asp?catid=': 'test'}}
+{'cookies': {'inurl:com_feedpostolÂ\xadd/feedpost.php?url=': 'test'}}
+{'cookies': {'inurl:headersearch.pÂ\xadhp?sid=': 'test'}}
+{'cookies': {'inurl:parent_category_rn': 'test'}}
+{'cookies': {'inurl:resultCatEntryType': 'test'}}
+{'cookies': {'inurl:scrapbook.php?Â\xadid=': 'test'}}
+{'cookies': {'inurl:search.php?q=': 'test'}}
+{'cookies': {'inurl:searchTermScope': 'test'}}
+
+headers
+Drop count = 14000:
+{'headers': {'test': '<style>@keyframes slidein {}</style><html style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></html>'}}
+{'headers': {'test': '<xss id=x tabindex=1 onactivate=alert(1)></xss>'}}
+{'headers': {'test': '<xss id=x tabindex=1 onbeforeactivate=alert(1)></xss>'}}
+{'headers': {'test': '<xss id=x tabindex=1 onbeforedeactivate=alert(1)></xss><input autofocus>'}}
+{'headers': {'test': '<xss id=x tabindex=1 onblur=alert(1)></xss><input autofocus>'}}
+{'headers': {'test': '<xss id=x tabindex=1 ondeactivate=alert(1)></xss><input autofocus>'}}
+{'headers': {'test': '<xss id=x tabindex=1 onfocus=alert(1)></xss>'}}
+{'headers': {'test': '<xss id=x tabindex=1 onfocusin=alert(1)></xss>'}}
+{'headers': {'test': '<xss id=x tabindex=1 onfocusout=alert(1)></xss><input autofocus>'}}
+{'headers': {'test': '></SCRIPT>">\'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>'}}
+{'headers': {'test': '>>> vectors()'}}
+{'headers': {'test': 'inurl:".php?searchstÂ\xadring="'}}
+{'headers': {'test': 'inurl:".php?tag="'}}
+{'headers': {'test': 'inurl:".php?txt="'}}
+{'headers': {'test': 'inurl:".php?vote="'}}
+{'headers': {'test': 'inurl:".php?years="'}}
+{'headers': {'test': 'inurl:".php?z="'}}
+{'headers': {'test': 'perl -e \'print "<IMG SRC=java\\0script:alert(\\"XSS\\")>";\' > out'}}
+{'headers': {'test': 'top["al"+"ert"](1)'}}
+{'headers': {'test': "top['al\\145rt'](1)"}}
+{'headers': {'test': "top['al\\x65rt'](1)"}}
+{'headers': {'test': 'top[/al/.source+/ert/.source](1)'}}
+{'headers': {'test': 'top[8680439..toString(30)](1)'}}
+{'headers': {'test': 'xmlns:svg="http://www.w3.org/2000/svg">'}}
+{'headers': {'test': 'xâ\x80\x9d</title><img src%3dx onerror%3dalert(1)>'}}
+{'headers': {'test': 'Â¼scriptÂ¾alert(Â¢XSSÂ¢)Â¼/scriptÂ¾'}}
+{'headers': {'test': 'â\x80\x98)alert(1);//'}}
+{'headers': {'test': 'â\x80\x98; alert(1);'}}
+{'headers': {'test': 'â\x80\x9c><script>alert(â\x80\x9cXSSâ\x80\x9d)</script>'}}

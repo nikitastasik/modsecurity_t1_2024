@@ -1,0 +1,19 @@
+# Nginx configuration for both HTTP and SSL
+
+server {
+    listen ${PORT} default_server;
+
+    server_name ${SERVER_NAME};
+
+    root /usr/share/nginx/html;
+    index index.html;
+
+    location / {
+        try_files $uri $uri/ /index.html;
+    }
+    # Возвращать код 200 для всех запросов
+    error_page 404 =200 /index.html;
+
+    include includes/location_common.conf;
+
+}
